@@ -9,7 +9,6 @@ C:\Users\GIRISHRAJU\source\repos\DOTNETTESTNEW\DOTNETTESTNEW\bin\Debug\netcoreap
 C:\Users\GIRISHRAJU\source\repos\DOTNETTESTNEW\DOTNETTESTNEW\bin\Debug\netcoreapp3.0\DOTNETTESTNEW.pdb
 C:\Users\GIRISHRAJU\source\repos\DOTNETTESTNEW\DOTNETTESTNEW\bin\Debug\netcoreapp3.0\DOTNETTESTNEW.Views.dll
 C:\Users\GIRISHRAJU\source\repos\DOTNETTESTNEW\DOTNETTESTNEW\bin\Debug\netcoreapp3.0\DOTNETTESTNEW.Views.pdb
-C:\Users\GIRISHRAJU\source\repos\DOTNETTESTNEW\DOTNETTESTNEW\obj\Debug\netcoreapp3.0\DOTNETTESTNEW.csprojAssemblyReference.cache
 C:\Users\GIRISHRAJU\source\repos\DOTNETTESTNEW\DOTNETTESTNEW\obj\Debug\netcoreapp3.0\DOTNETTESTNEW.csproj.CoreCompileInputs.cache
 C:\Users\GIRISHRAJU\source\repos\DOTNETTESTNEW\DOTNETTESTNEW\obj\Debug\netcoreapp3.0\DOTNETTESTNEW.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\GIRISHRAJU\source\repos\DOTNETTESTNEW\DOTNETTESTNEW\obj\Debug\netcoreapp3.0\DOTNETTESTNEW.RazorAssemblyInfo.cache
